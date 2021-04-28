@@ -1,0 +1,41 @@
+.t_1
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    background-color: burlywood; 
+}
+.gd:hover
+{
+   background-color: bisque; 
+}
+.t_2
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    color: darksalmon
+}
+.fon
+{
+    background: url(fon.jpg);
+    width: 1518px;
+    height: 1518px;
+    position:absolute;
+    top:1px;
+    left:1px;
+    z-index:1;
+}
+.m
+{
+    text-align: center; 
+}
+.v
+{
+    position:absolute;
+    top:200px;
+    left:115px;
+    z-index:1;
+}
